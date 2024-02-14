@@ -6,5 +6,5 @@ const CONFIGDATA = {
   buttonNo: "Olmaz :(",
   titleModar: "love u <3",
   descriptionModar:
-    "Seni seviyorum <3",
+    "İyi ki varsın <3 mmmuuuaahhh <3",
 };
